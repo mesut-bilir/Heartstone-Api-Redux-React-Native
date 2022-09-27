@@ -1,0 +1,6 @@
+module Pods_ReactNativeHearthstoneApi {
+  umbrella header "Pods-ReactNativeHearthstoneApi-umbrella.h"
+
+  export *
+  module * { export * }
+}

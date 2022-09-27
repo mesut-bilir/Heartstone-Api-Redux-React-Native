@@ -1,0 +1,6 @@
+module Pods_ReactNativeHearthstoneApi_ReactNativeHearthstoneApiTests {
+  umbrella header "Pods-ReactNativeHearthstoneApi-ReactNativeHearthstoneApiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

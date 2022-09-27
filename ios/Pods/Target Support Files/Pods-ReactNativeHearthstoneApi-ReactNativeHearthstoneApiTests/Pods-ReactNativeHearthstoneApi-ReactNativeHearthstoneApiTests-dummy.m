@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ReactNativeHearthstoneApi_ReactNativeHearthstoneApiTests : NSObject
+@end
+@implementation PodsDummy_Pods_ReactNativeHearthstoneApi_ReactNativeHearthstoneApiTests
+@end
